@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="gopher_mens_hockey_title">UMN Hockey</string>
+    <string name="goals">Goals</string>
+    <string name="plus">+</string>
+    <string name="start_value">0</string>
+    <string name="penalties">Penalties</string>
+    <string name="und_mens_hockey_title">UND Hockey</string>
+    <string name="reset">Reset</string>
+</resources>
